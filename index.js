@@ -77,6 +77,6 @@ const getCurrentlyPlayingTrack = () => {
       });
   };
   
-  setInterval(checkAndPlayTrack, 30000); 
+setInterval(checkAndPlayTrack, 30000); 
   
 playSpecificTrack('6qf9OwxTfs6lLRG8Kf1BMA');
